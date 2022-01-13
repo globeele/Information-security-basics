@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lib_Lab_2\bin\Debug\Lib_Lab_2.dll
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lib_Lab_2\bin\Debug\Lib_Lab_2.pdb
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lib_Lab_2\obj\Debug\Lib_Lab_2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lib_Lab_2\obj\Debug\Lib_Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lib_Lab_2\obj\Debug\Lib_Lab_2.dll
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lib_Lab_2\obj\Debug\Lib_Lab_2.pdb
+E:\OZI\ОЗИ\OZI-programmy\OZI\Лабораторная работа 2\Lib_Lab_2\bin\Debug\Lib_Lab_2.dll
+E:\OZI\ОЗИ\OZI-programmy\OZI\Лабораторная работа 2\Lib_Lab_2\bin\Debug\Lib_Lab_2.pdb
+E:\OZI\ОЗИ\OZI-programmy\OZI\Лабораторная работа 2\Lib_Lab_2\obj\Debug\Lib_Lab_2.csproj.AssemblyReference.cache
+E:\OZI\ОЗИ\OZI-programmy\OZI\Лабораторная работа 2\Lib_Lab_2\obj\Debug\Lib_Lab_2.csproj.CoreCompileInputs.cache
+E:\OZI\ОЗИ\OZI-programmy\OZI\Лабораторная работа 2\Lib_Lab_2\obj\Debug\Lib_Lab_2.dll
+E:\OZI\ОЗИ\OZI-programmy\OZI\Лабораторная работа 2\Lib_Lab_2\obj\Debug\Lib_Lab_2.pdb

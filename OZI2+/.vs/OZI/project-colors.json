@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "60ee8149-8943-480d-ae6e-0dcd9ba6fa18": {
+      "ProjectGuid": "60ee8149-8943-480d-ae6e-0dcd9ba6fa18",
+      "DisplayName": "Lab4_App",
+      "ColorIndex": 0
+    },
+    "a6a33d99-19db-4463-9fc1-cccd4c605353": {
+      "ProjectGuid": "a6a33d99-19db-4463-9fc1-cccd4c605353",
+      "DisplayName": "App_Lab2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

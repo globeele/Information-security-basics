@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lab2_App\bin\Debug\Lab2_App.exe.config
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lab2_App\bin\Debug\Lab2_App.exe
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lab2_App\bin\Debug\Lab2_App.pdb
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lab2_App\bin\Debug\Lib_Lab_2.dll
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lab2_App\bin\Debug\Lib_Lab_2.pdb
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lab2_App\obj\Debug\Lab2_App.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lab2_App\obj\Debug\Lab2_App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lab2_App\obj\Debug\Lab2_App.csproj.CopyComplete
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lab2_App\obj\Debug\Lab2_App.exe
+C:\Users\User\source\repos\OZI\Лабораторная работа 2\Lab2_App\obj\Debug\Lab2_App.pdb

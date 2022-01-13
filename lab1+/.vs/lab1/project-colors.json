@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24e0de8c-6060-4ada-a8af-4d8d064753a5": {
+      "ProjectGuid": "24e0de8c-6060-4ada-a8af-4d8d064753a5",
+      "DisplayName": "CipherFirstLabForms",
+      "ColorIndex": 0
+    },
+    "f56018ab-a70d-4e28-acf4-422b0f6eabb8": {
+      "ProjectGuid": "f56018ab-a70d-4e28-acf4-422b0f6eabb8",
+      "DisplayName": "СipherLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
